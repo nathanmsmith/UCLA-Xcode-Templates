@@ -8,7 +8,6 @@ Start Xcode, create a new file, and scroll to the bottom. It should look like th
 ![A screenshot of what it should look like.][image-1]
 
 Click next. You now:
-![A gif of you right now.][image-2]
+\<iframe src="//giphy.com/embed/YQitE4YNQNahy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen\>\</iframe\>\<p\>\<a href="http://giphy.com/gifs/YQitE4YNQNahy"\>\</a\>\</p\>
 
 [image-1]:	resources/screenshot.png
-[image-2]:	resources/hacker.gif
