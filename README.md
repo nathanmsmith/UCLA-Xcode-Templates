@@ -11,4 +11,4 @@ Click next. You now:
 ![A screenshot of what it should look like.][image-2]
 
 [image-1]:	resources/screenshot.png
-[image-2]:	resources/hacking.png
+[image-2]:	resources/hacking.gif
