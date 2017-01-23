@@ -9,7 +9,7 @@ Start Xcode, create a new file, and scroll to the bottom. It should look like th
 
 Click next. You now:
 
-![A screenshot of what it should look like.][image-2]
+\<img src="resources/hacking.gif" alt="Drawing" style="width: 600px;"/\>
+
 
 [image-1]:	resources/screenshot.png
-[image-2]:	resources/hacking.gif
