@@ -6,4 +6,4 @@ Templates I've picked up over the years that made CS homework and projects a lit
 Start Xcode, create a new file, and scroll to the bottom. It should look like this:
 ![A screenshot of what it should look like][image-1]
 
-[image-1]:	/screenshot.png
+[image-1]:	screenshot.png
