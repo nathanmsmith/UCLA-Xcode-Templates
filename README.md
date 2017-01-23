@@ -1,5 +1,5 @@
-# UCLA-Xcode-Templates
-Templates I've picked up over the years that made CS homework and projects a little easier. Maybe you'll find them useful as well?
+# UCLA Xcode Templates
+Templates for Xcode I've developed to make CS homework and projects a little easier. Currently there's only one, but maybe you'll contribute?
 
 # Installation
 `git clone https://github.com/nathunsmitty/UCLA-Xcode-Templates.git ~/Library/Developer/Xcode/Templates/File\ Templates/UCLA\ CS`
