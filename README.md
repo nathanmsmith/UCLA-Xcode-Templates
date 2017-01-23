@@ -10,5 +10,5 @@ Start Xcode, create a new file, and scroll to the bottom. It should look like th
 Click next. You now:
 ![A gif of you right now.][image-2]
 
-[image-1]:	screenshot.png
-[image-2]:	https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif
+[image-1]:	resources/screenshot.png
+[image-2]:	resources/hacker.gif
