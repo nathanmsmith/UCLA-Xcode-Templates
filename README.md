@@ -8,6 +8,7 @@ Start Xcode, create a new file, and scroll to the bottom. It should look like th
 ![A screenshot of what it should look like.][image-1]
 
 Click next. You now:
+
 ![A screenshot of what it should look like.][image-2]
 
 [image-1]:	resources/screenshot.png
