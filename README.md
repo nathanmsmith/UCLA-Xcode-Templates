@@ -7,9 +7,8 @@ Templates I've picked up over the years that made CS homework and projects a lit
 Start Xcode, create a new file, and scroll to the bottom. It should look like this:
 ![A screenshot of what it should look like.][image-1]
 
-Click next. You now:
+Click next. [You now][1].
 
-\<img src="resources/hacking.gif" alt="Drawing" width=“600" /\>
-
+[1]:	https://www.youtube.com/watch?v=AcmaNJfRQf0
 
 [image-1]:	resources/screenshot.png
